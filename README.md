@@ -1,5 +1,5 @@
-# Robot Finds Kitten
-Simon Carless once described robotfindskitten as "less a game and more a way of life ... It's fun to wander around until you find a kitten, at which point you feel happy and can start again". I don't think I could have said it better myself!
+# Greed
+Greed is a game in which the player seeks to gather as many falling gems as possible. The game continues as long as the player wants more!
 
 ## Getting Started
 ---
@@ -9,7 +9,7 @@ python3 -m pip install raylib
 ```
 After you've installed the required libraries, open a terminal and browse to the project's root folder. Start the program by running the following command.```
 
-python3 rfk 
+py greed 
 ```
 You can also run the program from an IDE like Visual Studio Code. Start your IDE and open the 
 project folder. Select the main module inside the hunter folder and click the "run" icon.
@@ -33,4 +33,10 @@ root                    (project root folder)
 
 ## Authors
 ---
-* # TODO: Add your name and email here
+    ▨-▨¬ლ(•_•) 
+
+          (▨_▨¬)
+
+          (つ▀¯▀)つ
+
+          ⊂(▀¯▀⊂)
